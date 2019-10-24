@@ -18,9 +18,9 @@
 <p>Izpiše se: ADC_IN10.</p>
 
 <h4>Kakšne so možne ločljivosti pretvorbe in območja vrednosti</h4>
-<li>a.  8 bit, od 0 do 256</li>
-<li>b.  10 bit, od 0 do 1024</li>
-<li>c.  12 bit, od 0 do 4096</li>
+a.  8 bit, od 0 do 256</li>
+b.  10 bit, od 0 do 1024</li>
+c.  12 bit, od 0 do 4096</li>
 
 <h4>Komentar</h4>
 <p>Razvojna ploščica deluje na principu potenciometra, ki ga obračamo in nato se izpiše v programu STM studio z zakasnitvijo 100ms. V STM-Studio lahko spremljamo spremembe v živo.</p>
