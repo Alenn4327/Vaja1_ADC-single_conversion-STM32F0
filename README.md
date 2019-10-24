@@ -1,4 +1,4 @@
-Vaja1-ADC-single-conversion-STM32F0
+
 <h4>Glede na vašo razvojno ploščo in razširitveno vezje z tipkami in potencimetri, izberite ustrezni analogni vhod. Kateri pin je to?</h4>
 <p>Pin PC0.</p>
 
@@ -23,4 +23,5 @@ Vaja1-ADC-single-conversion-STM32F0
 <li>c.  12 bit, od 0 do 4096</li>
 
 <h4>Komentar</h4>
-<p>Razvojna ploščica deluje tako, da pošilja podatke stanja potenciometra preko ADC pina v spremenljivko, ki se nato izpiše v programu STM studio z zakasnitvijo 100ms. V STMstudio lahko spremljamo spremembe v živo.</p>
+<p>Razvojna ploščica deluje na principu potenciometra, ki ga obračamo in nato se izpiše v programu STM studio z zakasnitvijo 100ms. V STMstudio lahko spremljamo spremembe v živo.</p>
+Izdelala Alen Džamastagić, Jan Juvan
