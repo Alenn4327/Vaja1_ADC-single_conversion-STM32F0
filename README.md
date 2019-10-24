@@ -23,5 +23,6 @@
 <li>c.  12 bit, od 0 do 4096</li>
 
 <h4>Komentar</h4>
-<p>Razvojna ploščica deluje na principu potenciometra, ki ga obračamo in nato se izpiše v programu STM studio z zakasnitvijo 100ms. V STMstudio lahko spremljamo spremembe v živo.</p>
+<p>Razvojna ploščica deluje na principu potenciometra, ki ga obračamo in nato se izpiše v programu STM studio z zakasnitvijo 100ms. V STM-Studio lahko spremljamo spremembe v živo.</p>
+
 Izdelala Alen Džamastagić, Jan Juvan
