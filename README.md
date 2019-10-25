@@ -19,11 +19,11 @@
 
 <h4>Kakšne so možne ločljivosti pretvorbe in območja vrednosti</h4>
 
-a.  8 bit, od 0 do 256
+a.  8 bit, od 0 do 256,
 
-b.  10 bit, od 0 do 1024
+b.  10 bit, od 0 do 1024,
 
-c.  12 bit, od 0 do 4096
+c.  12 bit, od 0 do 4096.
 
 <h4>Komentar</h4>
 <p>Razvojna ploščica deluje na principu potenciometra, ki ga obračamo in nato se izpiše v programu STM studio z zakasnitvijo 100ms. V STM-Studio lahko spremljamo spremembe v živo.</p>
